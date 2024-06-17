@@ -4,19 +4,19 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "webpack",
-    "start": "webpack serve --mode development --port 8585",
+    "start": "webpack serve --mode development --port 8686",
     "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mikhailBrann/advance-js-hw-5.git"
+    "url": "git+https://github.com/mikhailBrann/advance-js-hw-6.git"
   },
   "author": "mihail Br",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mikhailBrann/advance-js-hw-5/issues"
+    "url": "https://github.com/mikhailBrann/advance-js-hw-6/issues"
   },
-  "homepage": "https://github.com/mikhailBrann/advance-js-hw-5#readme",
+  "homepage": "https://github.com/mikhailBrann/advance-js-hw-6#readme",
   "description": "",
   "devDependencies": {
     "@babel/cli": "^7.23.0",
